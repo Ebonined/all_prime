@@ -1,4 +1,3 @@
-# Function to help get all the prime number from 1 to the intended number
 def allprimes(number=997):
     """
     Function to help get all the prime number from 1 to the intended number
