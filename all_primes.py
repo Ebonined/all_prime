@@ -1,6 +1,6 @@
 def allprimes(number=997):
     """
-    Function to help get all the prime number from 1 to the intended number
+    Function to help get all the prime number from 1 to the intended number in the function
     """
     oddnum = [2]
     for num in range(2,number+1):
