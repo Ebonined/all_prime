@@ -47,7 +47,7 @@ def primfact(number):
     return indexnot # returns a dictionary in which the keys are the prime numbers and the values are the power of the index notation
             
 #----example-----#
-print(primfact(55))
+# print(primfact(55))
 
 #----outputs-----#
 # {5: 1, 11: 1} # equivalent to 5^1*11^1
